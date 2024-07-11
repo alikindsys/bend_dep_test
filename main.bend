@@ -1,2 +1,2 @@
 def main():
-  return "Hello World v2"
+  return "Hello Fuvest!"
